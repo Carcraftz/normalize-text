@@ -19,9 +19,4 @@ describe('normalizeText', () => {
     );
   });
 
-  it('Transform to lower-case', () => {
-    expect(normalizeText('It WOULD be tranSFORMED')).toEqual(
-      'it would be transformed'
-    );
-  });
 });
