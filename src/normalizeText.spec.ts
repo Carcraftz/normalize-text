@@ -18,5 +18,4 @@ describe('normalizeText', () => {
       "hi how u're doing? good?"
     );
   });
-
 });
